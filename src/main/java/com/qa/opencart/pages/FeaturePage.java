@@ -6,6 +6,8 @@ public class FeaturePage {
 		
 		
 		System.out.println("feature v1.0");
+		System.out.println("feature v2.0");
+		
 	}
 
 }
